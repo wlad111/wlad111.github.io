@@ -5,7 +5,7 @@
 body {
   font-family: "PT Serif", Georgia, "Times New Roman", serif;
   font-size: 18px;
-  color: #515151;
+  color: blue;
   line-height: 1.75rem;
 }
 
@@ -29,7 +29,7 @@ h1 a {
 
 h1, h2, h3, h4, h5, h6 {
   font-family: "Quattrocento Sans", sans-serif;
-  color: #333;
+  color: red;
 }
 
 a {
@@ -294,20 +294,21 @@ pre {
 */
 
 .sharing-icons a {
-  padding-right: 10px;
+  padding-right: 30px;
+  
 }
 
 .fa-envelope {
   padding: 5px;
-	-o-transition:.5s;
-  	-ms-transition:.5s;
-  	-moz-transition:.5s;
-  	-webkit-transition:.5s;
-  	transition: .5s;
+	-o-transition:0s;
+  	-ms-transition:0s;
+  	-moz-transition:0s;
+  	-webkit-transition:0s;
+  	transition: 0s;
 }
 
 .fa-envelope:hover {
-	color: #f39c12;
+	color: red;
 }
 
 .fa-twitter {
@@ -337,16 +338,16 @@ pre {
 }
 
 .fa-github {
-  padding: 5px;
-	-o-transition:.5s;
-  	-ms-transition:.5s;
-  	-moz-transition:.5s;
-  	-webkit-transition:.5s;
-  	transition: .5s;
+  padding: 8px;
+	-o-transition: 0s;
+  	-ms-transition: 0s;
+  	-moz-transition: 0s;
+  	-webkit-transition: 0s;
+  	transition:  0s;
 }
 
 .fa-github:hover {
-	color: #343434;
+	color: green;
 }
 
 .fa-linkedin {
@@ -377,11 +378,11 @@ pre {
 
 .fa-google-plus {
   padding: 5px;
-	-o-transition:.5s;
-  	-ms-transition:.5s;
-  	-moz-transition:.5s;
-  	-webkit-transition:.5s;
-  	transition: .5s;
+	-o-transition:0s;
+  	-ms-transition:0s;
+  	-moz-transition:0s;
+  	-webkit-transition:0s;
+  	transition: 0s;
 }
 
 .fa-google-plus:hover {
