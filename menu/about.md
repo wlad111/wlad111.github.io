@@ -1,5 +1,13 @@
 ---
-layout: page
-title: About
+layout: post
+title: "About myself"
+author: "Vlad"
+categories: journal
+tags: [documentation,sample]
+image:
+  feature: alonso-skysports.jpg
+  teaser: alonso-skysports.jpg
+  credit:
+  creditlink:
 ---
-Lagrange is a minimalist Jekyll. It is intended to have a clean, content focused interface for blog writing. For more information on how to install and use this theme, check out [the documentation]({{ site.github.url }}{% post_url 2016-01-01-Welcome-to-Lagrange %}).
+Hey there! My name is Vlad an it is my static website. I like ice hockey (Go! Go! Black and gold!), american football (Go Pats Go), soccer (Glory Glory Man United). Here you can see some posts and memes & jokes for mature men. Enjoy! 

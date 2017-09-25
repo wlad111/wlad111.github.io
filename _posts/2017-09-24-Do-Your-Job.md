@@ -1,14 +1,14 @@
 ---
 layout: post
-title: "Deutschland uber alles"
+title: "Do your job"
 author: "Vlad"
 categories: journal
 tags: [documentation,sample]
 image:
-  feature: germany.jpg
-  teaser: germany.jpg
+  feature: doyourjob.jpg
+  teaser: doyourjob.jpg
   credit:
   creditlink:
 ---
 
-Deutschland, Deutschland uber alles!
+"Do your job" (c) Bill Belichik

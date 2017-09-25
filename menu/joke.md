@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Very funny joke"
+title: "Funny joke"
 author: "Vlad"
 categories: journal
 tags: [documentation,sample]
@@ -12,4 +12,4 @@ image:
 ---
 
 Why do Java Developers wear glasses? 
-Because they don't C#
+<p>Because they don't C#</p>

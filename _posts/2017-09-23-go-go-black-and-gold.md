@@ -1,14 +1,14 @@
 ---
 layout: post
-title: "Deutschland uber alles"
+title: "Boston bruins"
 author: "Vlad"
 categories: journal
 tags: [documentation,sample]
 image:
-  feature: germany.jpg
-  teaser: germany.jpg
+  feature: boston.jpg
+  teaser: boston.jpg
   credit:
   creditlink:
 ---
 
-Deutschland, Deutschland uber alles!
+Go, go, black and gold!

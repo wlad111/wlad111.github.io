@@ -14,7 +14,7 @@ menu:
 - {name: 'About', url: 'about.html'}
 - {name: 'Writing', url: 'writing.html'}
 - {name: 'Contact', url: 'contact.html'}
-- {name: 'Misc', url: 'misc.html'}
+- {name: 'Funny joke', url: 'joke.html'}
 
 
 social:
