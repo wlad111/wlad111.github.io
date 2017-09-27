@@ -6,7 +6,7 @@ categories: journal
 tags: [documentation,sample]
 image:
   feature: doyourjob.jpg
-  teaser: 1.jpg
+  teaser: doyourjob.jpg
   credit:
   creditlink:
 ---
