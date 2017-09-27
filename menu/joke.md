@@ -1,15 +1,11 @@
 ---
-layout: post
+layout: page
 title: "Funny joke"
-author: "Vlad"
-categories: journal
-tags: [documentation,sample]
-image:
-  feature: anek.jpg
-  teaser: anek.jpg
-  credit:
-  creditlink:
 ---
+
+
 
 Why do Java Developers wear glasses? 
 <p>Because they don't C#</p>
+
+<img src="{{ site.github.url }}/assets/img/anek.jpg">
