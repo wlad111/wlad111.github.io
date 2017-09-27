@@ -216,16 +216,25 @@ blockquote p {
 .menu {
   padding-top: 0.5rem;
   display: block;
+  font-family: "Quattrocento Sans", sans-serif;
 }
 
 .menu-content {
   float: left;
+
 }
 
 .menu-content a {
   color: #999;
-  font-size: 1rem;
   padding-right: 10px;
+  font-family: sans-serif;
+  float: left; 
+  display: block; 
+  font-size: 1.17em; 
+  margin-left: 0; 
+  margin-right: 0; 
+  font-weight: bold;
+  text-decoration: none;
 }
 
 .social-icons {
